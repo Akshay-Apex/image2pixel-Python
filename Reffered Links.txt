@@ -1,0 +1,9 @@
+Web reference links:
+
+1. (https://www.geeksforgeeks.org/opencv-python-tutorial/)
+2. (https://www.geeksforgeeks.org/reading-image-opencv-using-python/?ref=header_ind)
+3. (https://www.geeksforgeeks.org/handle-mouse-events-in-python-opencv/?ref=header_ind)
+
+YouTube Links:
+
+1. (https://www.youtube.com/watch?v=kdLM6AOd2vc&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K&index=1)  [Entire Playlist]
